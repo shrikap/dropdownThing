@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BDC575732A67012E00F57002 /* dropdownThing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dropdownThing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BDC575732A67012E00F57002 /* cloverApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cloverApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDC575762A67012E00F57002 /* dropdownThingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dropdownThingApp.swift; sourceTree = "<group>"; };
 		BDC575782A67012E00F57002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDC5757A2A67013000F57002 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		BDC575742A67012E00F57002 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BDC575732A67012E00F57002 /* dropdownThing.app */,
+				BDC575732A67012E00F57002 /* cloverApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BDC575722A67012E00F57002 /* dropdownThing */ = {
+		BDC575722A67012E00F57002 /* cloverApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BDC575812A67013000F57002 /* Build configuration list for PBXNativeTarget "dropdownThing" */;
+			buildConfigurationList = BDC575812A67013000F57002 /* Build configuration list for PBXNativeTarget "cloverApp" */;
 			buildPhases = (
 				BDC5756F2A67012E00F57002 /* Sources */,
 				BDC575702A67012E00F57002 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = dropdownThing;
+			name = cloverApp;
 			productName = dropdownThing;
-			productReference = BDC575732A67012E00F57002 /* dropdownThing.app */;
+			productReference = BDC575732A67012E00F57002 /* cloverApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BDC5756E2A67012E00F57002 /* Build configuration list for PBXProject "dropdownThing" */;
+			buildConfigurationList = BDC5756E2A67012E00F57002 /* Build configuration list for PBXProject "cloverApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BDC575722A67012E00F57002 /* dropdownThing */,
+				BDC575722A67012E00F57002 /* cloverApp */,
 			);
 		};
 /* End PBXProject section */
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BDC5756E2A67012E00F57002 /* Build configuration list for PBXProject "dropdownThing" */ = {
+		BDC5756E2A67012E00F57002 /* Build configuration list for PBXProject "cloverApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BDC5757F2A67013000F57002 /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BDC575812A67013000F57002 /* Build configuration list for PBXNativeTarget "dropdownThing" */ = {
+		BDC575812A67013000F57002 /* Build configuration list for PBXNativeTarget "cloverApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BDC575822A67013000F57002 /* Debug */,
